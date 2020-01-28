@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thar will be content...
+title: Redirect
 ---
 
-...soon
+[ablease.co.uk](ablease.co.uk)
